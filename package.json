@@ -1,0 +1,22 @@
+{
+  "name": "warmup",
+  "version": "1.0.0",
+  "description": "Let's warm up!",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yankouskia/warmup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yankouskia/warmup/issues"
+  },
+  "homepage": "https://github.com/yankouskia/warmup#readme",
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  }
+}
