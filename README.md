@@ -9,7 +9,7 @@ Write your solution in `src/index.js`
 ## Prepare and test
 
 - Install [Node.js](https://nodejs.org/en/)
-- Clone this repository: `git clone https://github.com/yankouskia/sorter.git`
+- Clone this repository: `git clone https://github.com/yankouskia/warmup.git`
 - Go to folder `warmup`
 - Run `npm install` in command line
 - Run `npm test` in command line
