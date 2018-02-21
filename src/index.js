@@ -1,3 +1,7 @@
 module.exports = function warmup(temperature) {
-  // your implementation here
+  if (typeof temperature !== "number") {
+    return 'Введите число!'; 
+  } else {
+    return (temperature*9/5) + 32;
+   }
 };
