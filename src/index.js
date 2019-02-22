@@ -11,5 +11,5 @@ module.exports = function warmup(temperature) {
     if (temperature === 40) {
         return 104
     }
-  // your implementation here
+  return 1.8*temperature+32
 };
